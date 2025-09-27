@@ -5,7 +5,7 @@ FarmData2 is an application that supports the operation and certification requir
 ### Description ###
 
 FarmData2 is a web application for recording and reporting on crop and livestock production within the context of small organic farming operations.  Crop production records include seeding, transplanting, harvest, cover crop, compost, fertilization, irrigation, pest scouting, and spray activities.  Livestock production records track animals from birth to slaughter or sale and include pasture moves, periodic and veterinary care and logging of egg production.  Records of packing, distribution and customer invoicing are also maintained.  All records and reporting features are designed to closely align with organic certification requirements and to support the certification and recertification process.
-
+git 
 ### Installing FarmData2 ###
 
 If you are interesting in trying or using FarmData2 see the [INSTALL Document](INSTALL.md) for information about how to get started.
@@ -26,7 +26,7 @@ FarmData2 is both a _second_ edition of it predecessor, FarmData, and the integr
 
 ### Acknowledgements ###
 
-FarmData2 is powered by the [farmOS](https://not.the.right.link2) open source project.
+FarmData2 is powered by the [farmOS](https://farmos.org/) open source project.
 
 Support and assistance with FarmData2 development has been received from [The Non-Profit FOSS Institute](https://npfi.org/).
 
